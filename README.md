@@ -16,3 +16,14 @@ Arduino Uno R3 기반
 | 초음파 센서 | 1 |
 | 서보모터 | 1 |
 
+![circuit.png](/circuit.png)
+
+소스코드를 다운 받은 후 ```Arduino_Radar.ino```을 아두이노에 업로드
+
+***
+
+## LICENSE
+
+Apache-2.0 license
+
+개발: T.F Lab 추윤선
